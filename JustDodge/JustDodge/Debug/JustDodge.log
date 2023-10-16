@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\JustDodge\JustDodge\Source.cpp(284,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\JustDodge\JustDodge\Source.cpp(332,109): warning C4244: =: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\User\source\repos\JustDodge\JustDodge\Source.cpp(374,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  JustDodge.vcxproj -> C:\Users\User\source\repos\JustDodge\Debug\JustDodge.exe
